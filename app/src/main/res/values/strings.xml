@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="source">Bansal News Office</string>
+    <string name="destination">Habibganj railway station</string>
+    <string name="action_share">Share</string>
+    <string name="error_msg">OOP!s some thing went wrong</string>
+</resources>
